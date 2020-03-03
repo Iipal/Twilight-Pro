@@ -1,0 +1,28 @@
+{
+    "name": "twilight-pro",
+    "displayName": "Twilight Pro",
+    "description": "Extended Twilight theme.",
+    "version": "0.0.1",
+    "publisher": "_ipal",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/Iipal/Twilight-Pro/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Iipal/Twilight-Pro"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Twilight Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Twilight-Pro.json"
+            }
+        ]
+    }
+}
