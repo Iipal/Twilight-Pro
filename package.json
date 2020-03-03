@@ -2,7 +2,7 @@
     "name": "twilight-pro",
     "displayName": "Twilight Pro",
     "description": "Extended Twilight theme.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "malkoleyplay",
     "engines": {
         "vscode": "^0.10.1"
