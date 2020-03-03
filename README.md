@@ -10,7 +10,7 @@ But changed a UI colors (not all changes on screenshots):
 
 ## More Information
 * [Twilight on Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Twilight).
-* [Twilight Pro on Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Twilight).
+* [Twilight Pro on Marketplace](https://marketplace.visualstudio.com/items?itemName=malkoleyplay.twilight-pro).
 * [Twilight Pro GitHub repository](https://github.com/Iipal/Twilight-Pro).
 * [Twilight and other tehemes by gerane on his GitHub repository](https://github.com/gerane/VSCodeThemes).
 

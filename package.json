@@ -3,7 +3,7 @@
     "displayName": "Twilight Pro",
     "description": "Extended Twilight theme.",
     "version": "0.0.1",
-    "publisher": "_ipal",
+    "publisher": "malkoleyplay",
     "engines": {
         "vscode": "^0.10.1"
     },
