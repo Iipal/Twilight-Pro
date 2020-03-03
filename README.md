@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "twilight-pro"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Twilight Pro
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Screenshot
+Color Sceheme still unchanged:
+![](https://raw.githubusercontent.com/Iipal/Twilight-Pro/master/screenshot.png).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+But changed a UI colors (not all changes on screenshots):
+![](https://raw.githubusercontent.com/Iipal/Twilight-Pro/master/1.png)
+![](https://raw.githubusercontent.com/Iipal/Twilight-Pro/master/2.png)
+
+## More Information
+* [Twilight on Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Twilight).
+* [Twilight Pro on Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Twilight).
+* [Twilight Pro GitHub repository](https://github.com/Iipal/Twilight-Pro).
+* [Twilight and other tehemes by gerane on his GitHub repository](https://github.com/gerane/VSCodeThemes).
 
 **Enjoy!**
