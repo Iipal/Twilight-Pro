@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [0.0.2] - 2020-03-03
+## [0.1.0] - 2020-03-03
 
 - Updated README.md
+
+## [0.2.0] - 2020-03-03
+
+- Changed scrollbar.shadow color
